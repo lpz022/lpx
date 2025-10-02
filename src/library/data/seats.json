@@ -1,0 +1,170 @@
+[
+  {
+    "id": "S001",
+    "name": "座位 1",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757997165302
+  },
+  {
+    "id": "S002",
+    "name": "座位 2",
+    "status": "使用中",
+    "currentUserId": "U0001",
+    "updatedAt": 1757996104758
+  },
+  {
+    "id": "S003",
+    "name": "座位 3",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757996146458
+  },
+  {
+    "id": "S004",
+    "name": "座位 4",
+    "status": "违规使用",
+    "currentUserId": "U0002",
+    "updatedAt": 1757996134714
+  },
+  {
+    "id": "S005",
+    "name": "座位 5",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S006",
+    "name": "座位 6",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S007",
+    "name": "座位 7",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757996092770
+  },
+  {
+    "id": "S008",
+    "name": "座位 8",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S009",
+    "name": "座位 9",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S010",
+    "name": "座位 10",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S011",
+    "name": "座位 11",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S012",
+    "name": "座位 12",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S013",
+    "name": "座位 13",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S014",
+    "name": "座位 14",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S015",
+    "name": "座位 15",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S016",
+    "name": "座位 16",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S017",
+    "name": "座位 17",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S018",
+    "name": "座位 18",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S019",
+    "name": "座位 19",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S020",
+    "name": "座位 20",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S021",
+    "name": "座位 21",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S022",
+    "name": "座位 22",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S023",
+    "name": "座位 23",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  },
+  {
+    "id": "S024",
+    "name": "座位 24",
+    "status": "空闲",
+    "currentUserId": null,
+    "updatedAt": 1757995310781
+  }
+]

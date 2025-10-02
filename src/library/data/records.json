@@ -1,0 +1,83 @@
+[
+  {
+    "id": "yKJREfHO",
+    "seatId": "S001",
+    "userId": "U0001",
+    "action": "assign",
+    "ts": 1757995376768
+  },
+  {
+    "id": "uC7J4sRM",
+    "seatId": "S001",
+    "userId": null,
+    "action": "force",
+    "to": "使用中",
+    "ts": 1757995955381
+  },
+  {
+    "id": "asev_FSi",
+    "seatId": "S001",
+    "userId": null,
+    "action": "force",
+    "to": "空闲",
+    "ts": 1757995958819
+  },
+  {
+    "id": "ib2HFZWb",
+    "seatId": "S002",
+    "userId": null,
+    "action": "force",
+    "to": "空闲",
+    "ts": 1757995967258
+  },
+  {
+    "id": "dPfwBj5F",
+    "seatId": "S002",
+    "userId": null,
+    "action": "force",
+    "to": "使用中",
+    "ts": 1757995970588
+  },
+  {
+    "id": "hyMiG-4c",
+    "seatId": "S002",
+    "userId": "U0001",
+    "action": "assign",
+    "ts": 1757996104760
+  },
+  {
+    "id": "sF7aKRnN",
+    "seatId": "S004",
+    "userId": "U0002",
+    "action": "assign",
+    "ts": 1757996129878
+  },
+  {
+    "id": "Ct4IDXH7",
+    "seatId": "S001",
+    "userId": "U0003",
+    "action": "assign",
+    "ts": 1757996646202
+  },
+  {
+    "id": "4INq2iNP",
+    "seatId": "S001",
+    "userId": "U0003",
+    "action": "release",
+    "ts": 1757997165304
+  },
+  {
+    "id": "NNpM4DkK",
+    "userId": "U0001",
+    "action": "credit",
+    "delta": 1,
+    "ts": 1757997201388
+  },
+  {
+    "id": "38AAfi-i",
+    "userId": "U0001",
+    "action": "credit",
+    "delta": -1,
+    "ts": 1757997202402
+  }
+]

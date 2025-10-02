@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>用户管理 · 图书馆座位后台</title>
+	<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+	<header class="topbar">
+		<h1>用户管理</h1>
+		<div class="actions">
+			<a href="/"><button type="button">返回首页</button></a>
+			<button id="refreshUsers">刷新</button>
+		</div>
+	</header>
+	<main class="container">
+		<section class="panel">
+			<h2>创建用户</h2>
+			<div class="toolbar">
+				<input id="name" placeholder="姓名" class="select"/>
+				<input id="studentId" placeholder="学号" class="select"/>
+				<input id="credit" placeholder="信用分(默认100)" class="select"/>
+				<button id="createUser">创建</button>
+			</div>
+		</section>
+		<section class="panel" style="margin-top:12px">
+			<h2>用户列表</h2>
+			<table class="seats" id="usersTable">
+				<thead>
+					<tr>
+						<th>ID</th>
+						<th>姓名</th>
+						<th>学号</th>
+						<th>信用分</th>
+						<th>操作</th>
+					</tr>
+				</thead>
+				<tbody></tbody>
+			</table>
+		</section>
+	</main>
+	<script src="/users.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
